@@ -1,0 +1,31 @@
+{
+  "name": "reactwithnr",
+  "version": "1.0.0",
+  "description": "This is react tutorial by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshrkhub/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Rakesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshrkhub/namaste-react/issues"
+  },
+  "homepage": "https://github.com/rakeshrkhub/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 2 version"
+  ]
+}
